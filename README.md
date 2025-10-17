@@ -8,6 +8,8 @@ O SITEC é uma interface de sistema de gestão pública moderna e responsiva, de
 
 A aplicação simula um ambiente de gestão de processos, com diferentes níveis de acesso e funcionalidades para cada tipo de usuário: Gestor, Servidor e Visitante.
 
+*Dentro do sistema estão disposíveis três ferramentas de análise são elas: Hollides que consiste em um analisador de aquisição de férias, Reader um leitor de documentos com PNL capaz de analisar viéses especificos do serviço público e o Ticker que é um sistema de ponto eletrônico.*
+
 ## ✨ Principais Funcionalidades
 
 * **Autenticação por Perfil:** Telas de Login, Cadastro e Recuperação de Senha, com lógica para simular diferentes níveis de acesso.
