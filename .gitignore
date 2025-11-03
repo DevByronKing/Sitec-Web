@@ -27,3 +27,6 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+# Ignorar ficheiros de configuração com chaves secretas
+firebaseConfig.js
